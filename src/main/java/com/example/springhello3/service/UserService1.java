@@ -7,4 +7,7 @@ public class UserService1 {
         int z = y + 20;
     }
 
+    public void get() {
+        System.out.println("dsadas");
+    }
 }
